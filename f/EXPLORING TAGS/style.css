@@ -7,3 +7,9 @@ nav {
     background-color: lightblue;
     padding: 5px;
 }
+
+footer{
+    background-color: lightgray;
+    margin: 20px;
+    paddin: 5px;
+}
